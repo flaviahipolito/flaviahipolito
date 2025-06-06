@@ -1,7 +1,34 @@
-## Olá! Eu sou a Flavia Hipolito 💗
+<h1 align="center" style="color:#f472b6;">🌸 Olá, eu sou a Flavia! 🌸</h1>
 
-- 💻 Hoje estou em busca de um estágio em tecnologia
-- 📝 Estudando Javascript. HTML e CSS
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F472B6&center=true&lines=Estudante+de+Front-end;Aprendendo+JavaScript,+HTML+e+CSS" />
+</p>
 
-![Seus stats](https://github-readme-stats.vercel.app/api?username=flaviahipolito&theme=rose&show_icons=true)
+---
 
+### 💖 Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em front-end  
+- 🌱 Atualmente aprendendo: **JavaScript, HTML e CSS**  
+- 💻 Buscando um **estágio** para expadir conhecimento
+
+---
+
+### 📊 Minhas estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=synthwave&icon_color=F472B6&title_color=F472B6&text_color=FADADD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=synthwave&title_color=F472B6&text_color=FADADD" />
+</p>
+
+---
+
+### 🛠️ Tecnologias que estou aprendendo
+
+![HTML5](https://img.shields.io/badge/-HTML5-FFD1DC?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-ff99cc?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f472b6?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+<p align="center">✨ Obrigada por visitar meu perfil ✨</p>
