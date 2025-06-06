@@ -8,9 +8,9 @@
 
 ### 💖 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em front-end  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento front-end  
 - 🌱 Atualmente aprendendo: **JavaScript, HTML e CSS**  
-- 💻 Buscando um **estágio** para expadir conhecimento
+- 💻 Buscando estágio para ampliar meus conhecimentos
 
 ---
 
@@ -25,9 +25,11 @@
 
 ### 🛠️ Tecnologias que estou aprendendo
 
-![HTML5](https://img.shields.io/badge/-HTML5-FFD1DC?style=flat-square&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-ff99cc?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f472b6?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  [![HTML5](https://img.shields.io/badge/-HTML5-f472b6?style=for-the-badge&logo=html5&logoColor=white&label=)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/-CSS3-f472b6?style=for-the-badge&logo=css3&logoColor=white&label=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-f472b6?style=for-the-badge&logo=javascript&logoColor=white&label=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+</p>
 
 ---
 
