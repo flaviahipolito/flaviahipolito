@@ -17,8 +17,8 @@
 ### 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=synthwave&icon_color=F472B6&title_color=F472B6&text_color=FADADD" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=synthwave&title_color=F472B6&text_color=FADADD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviahipolito&show_icons=true&theme=synthwave&icon_color=F472B6&title_color=F472B6&text_color=FADADD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviahipolito&layout=compact&theme=synthwave&title_color=F472B6&text_color=FADADD" />
 </p>
 
 ---
