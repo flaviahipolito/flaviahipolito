@@ -14,15 +14,7 @@
 
 ---
 
-### 📊 Minhas estatísticas
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flaviahipolito&show_icons=true&theme=synthwave&hide_border=true" />
-       
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flaviahipolito&layout=compact&theme=synthwave&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=flaviahipolito&theme=synthwave&hide_border=true" />
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo
