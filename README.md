@@ -35,15 +35,6 @@
 
 ---
 
-## ✨ Um pouquinho sobre meu estilo
-
-💗 Código limpo e organizado  
-🎨 Gosto de estética suave  
-📚 Aprendizado constante  
-🌷 Programação como forma de criatividade  
-
----
-
 <p align="center">
-  🌷 Obrigada por visitar meu cantinho 🌷
+  🌷 Obrigada pela visita🌷
 </p>
