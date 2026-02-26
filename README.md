@@ -18,12 +18,11 @@
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=flaviahipolito&show_icons=true&theme=synthwave&icon_color=F472B6&title_color=F472B6&text_color=FADADD&hide_border=true&cache_seconds=86400" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flaviahipolito&show_icons=true&theme=synthwave&hide_border=true" />
        
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviahipolito&layout=compact&theme=synthwave&title_color=F472B6&text_color=FADADD&hide_border=true&cache_seconds=86400" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flaviahipolito&layout=compact&theme=synthwave&hide_border=true" />
 </p>
-
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo
