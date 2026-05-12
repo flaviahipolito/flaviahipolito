@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=180&section=header&text=Flavia%20Alessandra%20Hipolito&fontSize=36&fontColor=fff&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,F472B6,DB2777&height=180&section=header&text=Flavia%20Alessandra%20Hipolito&fontSize=36&fontColor=fff&fontAlignY=45&fontFamily=Nunito" />
 
 <br/>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=100&section=footer&fontSize=20&fontColor=fff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,F472B6,DB2777&height=100&section=footer&fontFamily=Nunito" />
 
 **🌷 Obrigada pela visita! 🌷**
 
