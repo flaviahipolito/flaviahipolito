@@ -1,45 +1,85 @@
-<h1 align="center">
-  🌸 Flavia Alessandra 🌸
-</h1>
+<div align="center">
 
-<p align="center">
-  💻 Front-end por hobby • 💌 Atendimento a membros
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=180&section=header&text=Flavia%20Alessandra%20Hipolito&fontSize=36&fontColor=fff&fontAlignY=36&desc=front-end%20por%20amor%20%E2%80%A2%20atendimento%20com%20carinho&descAlignY=58&descSize=16" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F472B6&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;Aprendendo+e+criando+por+paixão" />
-</p>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%F0%9F%8C%B8;Aprendendo+e+criando+por+paix%C3%A3o+%F0%9F%92%96;Interfaces+delicadas+e+funcionais+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 💖 Sobre mim
+<img align="right" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
-🌷 Trabalho com atendimento a membros  
-🌸 Programação é meu hobby e espaço criativo  
-🌱 Estudando e praticando **HTML, CSS e JavaScript**  
-🎀 Gosto de interfaces delicadas, organizadas e funcionais  
+### 🌷 Sobre mim
 
----
+&nbsp;&nbsp;&nbsp;🎀 &nbsp;Trabalho com **atendimento a membros**  
+&nbsp;&nbsp;&nbsp;💻 &nbsp;Programação é meu **hobby e espaço criativo**  
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Estudando **HTML, CSS e JavaScript**  
+&nbsp;&nbsp;&nbsp;✨ &nbsp;Amo interfaces **delicadas, organizadas e funcionais**  
+&nbsp;&nbsp;&nbsp;🌸 &nbsp;Sempre em busca de **evoluir no front-end**
 
-## 💻 Tecnologias
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-ffb6c1?style=for-the-badge&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-f472b6?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<br clear="right"/>
 
 ---
 
-## 🌸 Atualmente aprendendo
+### 🛠️ Tecnologias
 
-- Estruturação semântica  
-- Responsividade  
-- Manipulação do DOM  
-- Organização de código  
+<div align="center">
+  <br/>
+
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=f47a8a&color=f9a8c9)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=e879a0&color=f9a8c9)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=db2777&color=f9a8c9)
+
+  <br/><br/>
+
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=9d174d&color=fbcfe8)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=be185d&color=fbcfe8)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=831843&color=fbcfe8)
+
+  <br/>
+</div>
 
 ---
 
-<p align="center">
-  🌷 Obrigada pela visita 🌷
-</p>
+### 📚 Atualmente aprendendo
+
+<div align="center">
+  <br/>
+
+  ![Semântica HTML](https://img.shields.io/badge/Estrutura%20Semântica-✔%20em%20progresso-f9a8d4?style=flat-square&labelColor=db2777)
+  ![Responsividade](https://img.shields.io/badge/Responsividade-✔%20em%20progresso-f9a8d4?style=flat-square&labelColor=db2777)
+  ![DOM](https://img.shields.io/badge/Manipulação%20do%20DOM-🌱%20estudando-fbcfe8?style=flat-square&labelColor=be185d)
+  ![Clean Code](https://img.shields.io/badge/Organização%20de%20Código-🌱%20estudando-fbcfe8?style=flat-square&labelColor=be185d)
+
+  <br/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=flaviahipolito&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f9a8d4&text_color=ffffff&ring_color=db2777" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviahipolito&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=ffffff" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flaviahipolito&theme=radical&hide_border=true&background=0d1117&ring=f472b6&fire=db2777&currStreakLabel=f9a8d4" />
+
+  <br/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer&fontSize=20&fontColor=fff&fontAlignY=65" />
+
+**🌷 Obrigada pela visita! 🌷**
+
+</div>
