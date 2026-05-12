@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=18&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+🌸;Aprendendo+e+criando+por+paixão+💖;Interfaces+delicadas+e+funcionais+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=18&color=F9A8D4&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;Aprendendo+e+criando+por+paix%C3%A3o;Interfaces+delicadas+e+funcionais" />
 </p>
 
 ---
