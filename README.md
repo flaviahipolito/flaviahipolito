@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=180&section=header&text=Flavia%20Alessandra%20Hipolito&fontSize=36&fontColor=fff&fontAlignY=36&desc=front-end%20por%20amor%20%E2%80%A2%20atendimento%20com%20carinho&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=180&section=header&text=Flavia%20Alessandra%20Hipolito&fontSize=36&fontColor=fff&fontAlignY=45" />
 
 <br/>
 
@@ -46,16 +46,10 @@
 
 ### 📚 Atualmente aprendendo
 
-<div align="center">
-  <br/>
-
-  ![Semântica HTML](https://img.shields.io/badge/Estrutura%20Semântica-✔%20em%20progresso-f9a8d4?style=flat-square&labelColor=db2777)
-  ![Responsividade](https://img.shields.io/badge/Responsividade-✔%20em%20progresso-f9a8d4?style=flat-square&labelColor=db2777)
-  ![DOM](https://img.shields.io/badge/Manipulação%20do%20DOM-🌱%20estudando-fbcfe8?style=flat-square&labelColor=be185d)
-  ![Clean Code](https://img.shields.io/badge/Organização%20de%20Código-🌱%20estudando-fbcfe8?style=flat-square&labelColor=be185d)
-
-  <br/>
-</div>
+- Estruturação semântica
+- Responsividade
+- Manipulação do DOM
+- Organização de código
 
 ---
 
@@ -78,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer&fontSize=20&fontColor=fff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=100&section=footer&fontSize=20&fontColor=fff&fontAlignY=65" />
 
 **🌷 Obrigada pela visita! 🌷**
 
